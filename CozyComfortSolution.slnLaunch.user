@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ManufacturerAPI\\ManufacturerAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DistributionAPI\\DistributionAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SellerWebApp\\SellerWebApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
